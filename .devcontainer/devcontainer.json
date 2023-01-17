@@ -1,0 +1,16 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+		"rexebin.classlens",
+        "GitHub.copilot",
+        "donjayamanne.githistory",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter",
+        "PKief.material-icon-theme",
+        "ms-python.python",
+        "MS-CEINTL.vscode-language-pack-ja"
+    ]
+}
